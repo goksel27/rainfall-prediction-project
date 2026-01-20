@@ -76,3 +76,23 @@ Evaluated models using:
 ```bash
 git clone https://github.com/goksel27/rainfall-prediction-project.git
 cd rainfall-prediction-project
+
+Open the notebook:
+
+jupyter notebook
+
+
+Run all cells in:
+FinalProject_AUSWeather.ipynb
+
+📌 Notes
+
+This project was completed as part of an applied Machine Learning lab, focusing on:
+
+real-world preprocessing,
+
+pipeline-based training,
+
+cross-validation tuning,
+
+and model comparison.
